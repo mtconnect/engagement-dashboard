@@ -1,0 +1,35 @@
+name: Fetch Stars Data
+
+on:
+  schedule:
+    - cron: '0 2 * * *'   # runs daily at 2 AM UTC
+  workflow_dispatch:      # allows manual run
+
+jobs:
+  fetch-stars:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run star fetch script
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: python scripts/fetch_stars.py
+
+      - name: Commit updated data
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add data/stars/*
+          git commit -m "Update star data" || echo "No changes"
+          git push
