@@ -4030,5 +4030,29 @@
       "user_view_type": "public",
       "site_admin": false
     }
+  },
+  {
+    "starred_at": "2026-02-28T07:17:26Z",
+    "user": {
+      "login": "CarlosMarrufo",
+      "id": 51818009,
+      "node_id": "MDQ6VXNlcjUxODE4MDA5",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51818009?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/CarlosMarrufo",
+      "html_url": "https://github.com/CarlosMarrufo",
+      "followers_url": "https://api.github.com/users/CarlosMarrufo/followers",
+      "following_url": "https://api.github.com/users/CarlosMarrufo/following{/other_user}",
+      "gists_url": "https://api.github.com/users/CarlosMarrufo/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/CarlosMarrufo/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/CarlosMarrufo/subscriptions",
+      "organizations_url": "https://api.github.com/users/CarlosMarrufo/orgs",
+      "repos_url": "https://api.github.com/users/CarlosMarrufo/repos",
+      "events_url": "https://api.github.com/users/CarlosMarrufo/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/CarlosMarrufo/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    }
   }
 ]
