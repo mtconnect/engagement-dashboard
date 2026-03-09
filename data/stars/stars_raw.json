@@ -4078,5 +4078,29 @@
       "user_view_type": "public",
       "site_admin": false
     }
+  },
+  {
+    "starred_at": "2026-03-08T14:54:24Z",
+    "user": {
+      "login": "Zikoel",
+      "id": 6044789,
+      "node_id": "MDQ6VXNlcjYwNDQ3ODk=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6044789?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Zikoel",
+      "html_url": "https://github.com/Zikoel",
+      "followers_url": "https://api.github.com/users/Zikoel/followers",
+      "following_url": "https://api.github.com/users/Zikoel/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Zikoel/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Zikoel/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Zikoel/subscriptions",
+      "organizations_url": "https://api.github.com/users/Zikoel/orgs",
+      "repos_url": "https://api.github.com/users/Zikoel/repos",
+      "events_url": "https://api.github.com/users/Zikoel/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Zikoel/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    }
   }
 ]
