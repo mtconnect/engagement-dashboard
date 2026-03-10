@@ -3024,30 +3024,6 @@
     }
   },
   {
-    "starred_at": "2024-04-02T19:39:47Z",
-    "user": {
-      "login": "SCHibbard",
-      "id": 40345296,
-      "node_id": "MDQ6VXNlcjQwMzQ1Mjk2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/40345296?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/SCHibbard",
-      "html_url": "https://github.com/SCHibbard",
-      "followers_url": "https://api.github.com/users/SCHibbard/followers",
-      "following_url": "https://api.github.com/users/SCHibbard/following{/other_user}",
-      "gists_url": "https://api.github.com/users/SCHibbard/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/SCHibbard/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/SCHibbard/subscriptions",
-      "organizations_url": "https://api.github.com/users/SCHibbard/orgs",
-      "repos_url": "https://api.github.com/users/SCHibbard/repos",
-      "events_url": "https://api.github.com/users/SCHibbard/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/SCHibbard/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    }
-  },
-  {
     "starred_at": "2024-04-06T16:29:42Z",
     "user": {
       "login": "jdingus",
@@ -4098,6 +4074,30 @@
       "repos_url": "https://api.github.com/users/Zikoel/repos",
       "events_url": "https://api.github.com/users/Zikoel/events{/privacy}",
       "received_events_url": "https://api.github.com/users/Zikoel/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    }
+  },
+  {
+    "starred_at": "2026-03-09T15:36:12Z",
+    "user": {
+      "login": "SCHibbard",
+      "id": 40345296,
+      "node_id": "MDQ6VXNlcjQwMzQ1Mjk2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40345296?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/SCHibbard",
+      "html_url": "https://github.com/SCHibbard",
+      "followers_url": "https://api.github.com/users/SCHibbard/followers",
+      "following_url": "https://api.github.com/users/SCHibbard/following{/other_user}",
+      "gists_url": "https://api.github.com/users/SCHibbard/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/SCHibbard/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/SCHibbard/subscriptions",
+      "organizations_url": "https://api.github.com/users/SCHibbard/orgs",
+      "repos_url": "https://api.github.com/users/SCHibbard/repos",
+      "events_url": "https://api.github.com/users/SCHibbard/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/SCHibbard/received_events",
       "type": "User",
       "user_view_type": "public",
       "site_admin": false
