@@ -4102,5 +4102,29 @@
       "user_view_type": "public",
       "site_admin": false
     }
+  },
+  {
+    "starred_at": "2026-03-21T18:09:25Z",
+    "user": {
+      "login": "olafclarson",
+      "id": 10741741,
+      "node_id": "MDQ6VXNlcjEwNzQxNzQx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10741741?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/olafclarson",
+      "html_url": "https://github.com/olafclarson",
+      "followers_url": "https://api.github.com/users/olafclarson/followers",
+      "following_url": "https://api.github.com/users/olafclarson/following{/other_user}",
+      "gists_url": "https://api.github.com/users/olafclarson/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/olafclarson/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/olafclarson/subscriptions",
+      "organizations_url": "https://api.github.com/users/olafclarson/orgs",
+      "repos_url": "https://api.github.com/users/olafclarson/repos",
+      "events_url": "https://api.github.com/users/olafclarson/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/olafclarson/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    }
   }
 ]
