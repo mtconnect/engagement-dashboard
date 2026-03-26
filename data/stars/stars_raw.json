@@ -3312,30 +3312,6 @@
     }
   },
   {
-    "starred_at": "2024-11-25T02:02:35Z",
-    "user": {
-      "login": "cz-888-888",
-      "id": 62712928,
-      "node_id": "MDQ6VXNlcjYyNzEyOTI4",
-      "avatar_url": "https://avatars.githubusercontent.com/u/62712928?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/cz-888-888",
-      "html_url": "https://github.com/cz-888-888",
-      "followers_url": "https://api.github.com/users/cz-888-888/followers",
-      "following_url": "https://api.github.com/users/cz-888-888/following{/other_user}",
-      "gists_url": "https://api.github.com/users/cz-888-888/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/cz-888-888/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/cz-888-888/subscriptions",
-      "organizations_url": "https://api.github.com/users/cz-888-888/orgs",
-      "repos_url": "https://api.github.com/users/cz-888-888/repos",
-      "events_url": "https://api.github.com/users/cz-888-888/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/cz-888-888/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    }
-  },
-  {
     "starred_at": "2024-12-23T08:28:01Z",
     "user": {
       "login": "lw000",
