@@ -4174,5 +4174,29 @@
       "user_view_type": "public",
       "site_admin": false
     }
+  },
+  {
+    "starred_at": "2026-04-22T03:16:08Z",
+    "user": {
+      "login": "stev4501",
+      "id": 34610768,
+      "node_id": "MDQ6VXNlcjM0NjEwNzY4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34610768?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stev4501",
+      "html_url": "https://github.com/stev4501",
+      "followers_url": "https://api.github.com/users/stev4501/followers",
+      "following_url": "https://api.github.com/users/stev4501/following{/other_user}",
+      "gists_url": "https://api.github.com/users/stev4501/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/stev4501/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/stev4501/subscriptions",
+      "organizations_url": "https://api.github.com/users/stev4501/orgs",
+      "repos_url": "https://api.github.com/users/stev4501/repos",
+      "events_url": "https://api.github.com/users/stev4501/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/stev4501/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    }
   }
 ]
