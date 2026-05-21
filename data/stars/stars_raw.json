@@ -4222,5 +4222,29 @@
       "user_view_type": "public",
       "site_admin": false
     }
+  },
+  {
+    "starred_at": "2026-05-20T09:59:47Z",
+    "user": {
+      "login": "yl-ybl",
+      "id": 286275181,
+      "node_id": "U_kgDOERA2bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/286275181?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/yl-ybl",
+      "html_url": "https://github.com/yl-ybl",
+      "followers_url": "https://api.github.com/users/yl-ybl/followers",
+      "following_url": "https://api.github.com/users/yl-ybl/following{/other_user}",
+      "gists_url": "https://api.github.com/users/yl-ybl/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/yl-ybl/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/yl-ybl/subscriptions",
+      "organizations_url": "https://api.github.com/users/yl-ybl/orgs",
+      "repos_url": "https://api.github.com/users/yl-ybl/repos",
+      "events_url": "https://api.github.com/users/yl-ybl/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/yl-ybl/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    }
   }
 ]
